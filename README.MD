@@ -52,7 +52,7 @@ https://cdn.discordapp.com/attachments/967841474152648825/967844759865524394/Fiv
 ```
 ["rentalpapers"]				 = {["name"] = "rentalpapers", 					["label"] = "Rental Papers", 			["weight"] = 0, 		["type"] = "item", 		["image"] = "rentalpapers.png", 		["unique"] = true, 		["useable"] = true, 	["shouldClose"] = true, 	["combinable"] = nil, 	["description"] = "It's Rental Vehicle Proof!"},
 ```
-# Rental Papers Item Description - qb-inventory/html/js/app.js (Line 577)
+# Rental Papers Item Description - qb-inventory/html/js/app.js (Line 546)
 
 ```lua
         } else if (itemData.name == "stickynote") {
