@@ -1,6 +1,7 @@
 # Script Working With Only QBCore Framework Latest Version
 
-* [Project XG Community](https://discord.gg/Nh8WscE6ck)
+* [QBCore Offical Discord](https://discord.gg/qbcore)
+* [Project XG Community](https://discord.gg/Nh8WscE6ck) 
 
 
 # Dependencies
