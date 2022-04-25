@@ -63,5 +63,9 @@ https://cdn.discordapp.com/attachments/967841474152648825/967844759865524394/Fiv
             $(".item-info-description").html('<p><strong>Name: </strong><span>'+ itemData.info.firstname + '</span></p><p><strong>Last Name: </strong><span>'+ itemData.info.lastname+ '</span></p><p><strong>Plate: </strong><span>'+ itemData.info.plate + '<p><strong>Model: </strong><span>'+ itemData.info.model +'</span></p>');
 ```
 
+
+
+* Credits - itsHyper
+
 * Any problem related this script join our discord server and contact with admin
 * [Discord](https://discord.gg/Nh8WscE6ck)
